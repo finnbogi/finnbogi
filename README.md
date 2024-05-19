@@ -85,14 +85,6 @@ Welcome to my GitHub profile! I'm Finnbogi Rútur Ásgeirsson, a seasoned cloud 
 - **Microsoft Certified: Azure Developer Associate**
 - **Certified ScrumMaster® (CSM)**
 
-
-## 📊 GitHub Stats
-![Finnbogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=finnbogi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finnbogi&layout=compact&theme=radical)
-
-<!--## 🌟 Pinned Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=finnbogi&repo=your-repo-name&theme=radical)](https://github.com/finnbogi/your-repo-name)-->
-
 ---
 
 *This profile README was generated with ❤️ by Finnbogi Rútur Ásgeirsson*
