@@ -87,7 +87,7 @@ Welcome to my GitHub profile! I'm Finnbogi Rútur Ásgeirsson, a seasoned cloud 
 
 
 ## 📊 GitHub Stats
-![Finnbogi's GitHub stats](https://github-readme-stats.vercel.app/api?finnbogi=finnbogi&show_icons=true&theme=radical)
+![Finnbogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=finnbogi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finnbogi&layout=compact&theme=radical)
 
 <!--## 🌟 Pinned Repositories
