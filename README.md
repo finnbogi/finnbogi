@@ -10,7 +10,7 @@
 
 Welcome to my GitHub profile! I'm Finnbogi Rútur Ásgeirsson, a seasoned cloud architect with over 15 years of experience in the tech industry. I specialize in Kubernetes, cloud security, and building scalable cloud infrastructure for highly regulated industries. My mission is to make the world more secure without restrictions.
 
-![Profile Picture](https://avatars.githubusercontent.com/u/1056052?v=4)
+<!--![Profile Picture](https://avatars.githubusercontent.com/u/1056052?v=4)-->
 
 ## 🚀 About Me
 - 🏢 **Current Role:** Principal Cloud Architect at NNIT
