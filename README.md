@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm Finnbogi Rútur Ásgeirsson, a seasoned cloud 
 - DevSecOps and continuous integration/continuous delivery (CI/CD) pipelines.
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/finnbogi-rutur-ásgeirsson)
+- [LinkedIn](https://www.linkedin.com/in/frutur)
 - [Twitter](https://twitter.com/frutur)
 
 ## ⚡ Fun fact
